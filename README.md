@@ -1,2 +1,2 @@
-# coffin-serialize
-C++ header only serialize library
+# coffin-struct-utils
+C++ header only struct utils
